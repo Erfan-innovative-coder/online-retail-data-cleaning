@@ -1,0 +1,8 @@
+Check,Count,Percentage
+Duplicate rows,0,0.0
+Missing descriptions,1455,0.27
+Missing customer IDs,135037,25.16
+Zero unit prices,2510,0.47
+Negative unit prices,2,0.0
+Negative quantities,10587,1.97
+Negative quantity + zero price + missing description,863,0.16

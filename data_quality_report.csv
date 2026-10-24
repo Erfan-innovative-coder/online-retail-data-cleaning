@@ -1,0 +1,9 @@
+,Missing Values,Missing Percentage,Data Type
+InvoiceNo,0,0.0,object
+StockCode,0,0.0,object
+Description,1455,0.27,object
+Quantity,0,0.0,int64
+InvoiceDate,0,0.0,datetime64[ns]
+UnitPrice,0,0.0,float64
+CustomerID,135037,25.16,Int64
+Country,0,0.0,object
