@@ -1,23 +1,23 @@
-## Online Retail Data Cleaning and Quality Analysis
+# Online Retail Data Cleaning and Quality Analysis
 
-# Project Overview
+## Project Overview
 
 This project focuses on cleaning and assessing the data quality of an online retail transaction dataset using Python and Pandas. It identifies missing values, duplicate records, and unusual transaction values to better understand the quality and reliability of the data.
 
-# Dataset
+## Dataset
 
 The dataset contains transactions from a UK-based online retailer between December 2010 and December 2011.
 
 Source: "UCI Online Retail Dataset" (https://archive.ics.uci.edu/dataset/352/online+retail)
 
-# Tools and Technologies
+## Tools and Technologies
 
 - Python
 - Pandas
 - Matplotlib
 - Jupyter Notebook
 
-# Key Tasks
+## Key Tasks
 
 - Explored the dataset and examined its structure.
 - Identified and removed duplicate records.
@@ -27,7 +27,7 @@ Source: "UCI Online Retail Dataset" (https://archive.ics.uci.edu/dataset/352/onl
 - Examined negative quantities and potential cancellation transactions.
 - Generated data quality reports and visualizations.
 
-# Key Findings
+## Key Findings
 
 - Original dataset: 541,909 rows.
 - Records after duplicate removal: 536,641.
@@ -37,7 +37,7 @@ Source: "UCI Online Retail Dataset" (https://archive.ics.uci.edu/dataset/352/onl
 
 Unusual values were investigated rather than automatically removed, preserving potentially meaningful transaction information.
 
-# Project Files
+## Project Files
 
 - "data_cleaning.ipynb" — Data cleaning and quality analysis workflow.
 - "online_retail_cleaned.csv" — Cleaned dataset.
@@ -45,6 +45,6 @@ Unusual values were investigated rather than automatically removed, preserving p
 - "data_quality_summary.csv" — Summary of data quality issues.
 - PNG files — Data quality visualizations.
 
-# Objective
+## Objective
 
 To demonstrate practical data cleaning, exploratory data analysis, and data quality assessment using Python.
